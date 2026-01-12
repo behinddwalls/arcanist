@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.com/uber/arcanist.svg?branch=master)](https://travis-ci.com/uber/arcanist)
 
-!!!!IMPORTANT!!!!
+### IMPORTANT
 
 This is Uber fork of Phabricator Arcanist tooling and the only Arcanist version
 supported by Uber's Phabricator installation. Make sure you install this version
